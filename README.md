@@ -25,6 +25,3 @@
 [![](https://visitcount.itsvg.in/api?id=aditya-30-05&icon=10&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/adityabaghure24/adityabaghure24/output/github-contribution-grid-snake-dark.svg)
