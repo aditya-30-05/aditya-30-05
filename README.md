@@ -2,6 +2,7 @@
 🔭 I’m currently working on<br>Real-world hackathon projects and web applications using Java and modern tools<br><br>👯 I’m looking to collaborate on<br>Hackathons, innovative problem-solving projects, and impactful tech solutions<br><br>🤝 I’m looking for help with<br>Java, DSA, and building scalable real-world applications<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, Java, and backend development<br><br>  🧑‍🎓<br>🎓 B.Tech Computer Engineering Student<br><br>☕ Currently learning Java & Data Structures and Algorithms<br>🌐 Exploring Web Development<br>🛠️ Building practical, real-world projects<br>📈 Focused on continuous learning and improvement<br><br>⚡ Fun fact<br>I love turning real-world problems into tech solutions 🚀
 
 
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityabaghure24@gmail.com) 
 
