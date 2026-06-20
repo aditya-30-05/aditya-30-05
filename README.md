@@ -4,6 +4,7 @@
 
 
 ## 🌐 Socials:
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityabaghure24@gmail.com) 
 
 # 💻 Tech Stack:
