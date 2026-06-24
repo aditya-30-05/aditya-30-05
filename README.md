@@ -74,50 +74,23 @@ goal:
 <p>
 <img src="https://skillicons.dev/icons?i=nestjs,mysql,sqlite" />
 </p>
-
-### Cloud & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,gitlab,vscode" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tya-30-05&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tya-30-05&theme=radical&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tya-30-05&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
+  
+  ### Cloud & Tools
+  
+  <p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,gitlab,vscode" />
+  </p>
+  
+  ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aditya-30-05&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aditya-30-05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aditya-30-05&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=aditya-30-05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tya-30-05&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tya-30-05&theme=radical&row=2&column=4"/>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
