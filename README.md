@@ -23,7 +23,7 @@
 # 👨‍💻 About Me
 
 ```yaml
-name: Aditya
+name: Aditya Baghure 
 education: B.Tech Computer Engineering
 location: India 🇮🇳
 
