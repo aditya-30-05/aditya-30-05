@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Aditya
+# 🚀 Aditya Baghure
 
 ### 💻 Computer Engineering Student | ☕ Java Developer | 🏆 Hackathon Enthusiast
 
