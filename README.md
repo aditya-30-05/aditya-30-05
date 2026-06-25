@@ -93,17 +93,6 @@ interests:
 
 ---
 
-# 🎯 2026 Mission
-
-```text
-[✓] Improve Java Skills
-[✓] Learn Backend Development
-[✓] Participate in Hackathons
-[ ] Solve 500+ DSA Problems
-[ ] Build 10+ Major Projects
-[ ] Land a Software Internship
-[ ] Contribute to Open Source
-```
 
 ---
 
