@@ -145,6 +145,6 @@ public class Developer {
 }
 ```
 
-⭐ Thanks for visiting my profile ⭐
+
 
 </div>
