@@ -38,8 +38,7 @@ interests:
   - Hackathons
   - Open Source
 
-goal:
-  Become a Top Software Engineer 🚀
+
 ```
 
 <br>
